@@ -1,0 +1,24 @@
+{
+  "name": "bookies",
+  "version": "1.0.0",
+  "description": "Based on [this](https://serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodb/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CWACoderWithAttitude/bookies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CWACoderWithAttitude/bookies/issues"
+  },
+  "homepage": "https://github.com/CWACoderWithAttitude/bookies#readme",
+  "devDependencies": {
+    "serverless-python-requirements": "^4.3.0",
+    "serverless-wsgi": "^1.7.2"
+  }
+}
